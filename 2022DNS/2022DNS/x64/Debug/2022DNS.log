@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(2022DNS.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  dnsrelay.c
+D:\Cproject\2022DNS\2022DNS\dnsrelay.h(1,1): warning C4828: 文件包含在偏移 0xda8 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Cproject\2022DNS\2022DNS\getopt.h(59,30): warning C4081: 应输入“newline”；找到“;”
+D:\Cproject\2022DNS\2022DNS\dnsrelay.c(311,11): warning C4018: “<”: 有符号/无符号不匹配
+  2022DNS.vcxproj -> D:\Cproject\2022DNS\x64\Debug\dnsrelay.exe
